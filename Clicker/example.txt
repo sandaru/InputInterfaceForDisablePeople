@@ -1,0 +1,13 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+click|1|false
+select|2|false
+menu|3|false
+
+
+-- commands --
+visual studio|devenv.exe|true
+wordpad|wordpad.exe|true
+calculator|calc.exe|true
